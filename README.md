@@ -2,9 +2,7 @@
 
 Credits:
 
-Video created and Problem Statement developed by Dhaval Patel and Hemanand Vadivel.
-
-Collaboration with a subject matter expert from the hospitality domain,Abhishek Anand for data and metric introduction.
+Video created and Problem Statement developed by Dhaval Patel and Hemanand Vadivel.Collaboration with a subject matter expert from the hospitality domain,Abhishek Anand for data and metric introduction.
 
 Problem Statement
 
